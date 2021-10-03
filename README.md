@@ -10,6 +10,6 @@ Assigment to build a FAQ Chatbot
   - go to `localhost: 3000/admin` in your browser (Admin)
 
 ## Screenshots:
-  - ![demo4](./Client.png?raw=true "Client")
-  - ![demo2](./AdminLogin.png?raw=true "Admin Login")
-  - ![demo2](./AdminQues.png?raw=true "Admin Question")
+  ![demo4](./Client.png?raw=true "Client")
+  ![demo2](./AdminLogin.png?raw=true "Admin Login")
+  ![demo2](./AdminQues.png?raw=true "Admin Question")
