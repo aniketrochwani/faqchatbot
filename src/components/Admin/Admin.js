@@ -45,7 +45,7 @@ const Admin = () => {
   :  
   <div class="form">
     <div class="title">Welcome</div>
-    <div class="subtitle">Let's create your account!</div>
+    <div class="subtitle">Please Log in </div>
     <div class="input-container ic1">
       <input class="input" type="text" placeholder=" " value={email} onChange={e => setEmail(e.target.value)} />
       <div class="cut"></div>
