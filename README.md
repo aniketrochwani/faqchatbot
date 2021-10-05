@@ -4,6 +4,7 @@ Assigment to build a FAQ Chatbot
 
 ## How to get started:
   - Run `git clone https://github.com/aniketrochwani/faqchatbot.git`
+  - Run `cd faqchatbot/`
   - Run `npm install`
   - Run `npm start`
   - go to `localhost: 3000` in your browser (Client)
