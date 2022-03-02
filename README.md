@@ -1,6 +1,6 @@
-# Kameleon Technologies Assignment
+# Project: FAQ Chatbot
 
-Assigment to build a FAQ Chatbot 
+A FAQ Chatbot for Hacktoberfest participants.
 
 ## How to get started:
   - Run `git clone https://github.com/aniketrochwani/faqchatbot.git`
